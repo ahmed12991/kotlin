@@ -1,0 +1,7 @@
+fun main(args: Array<String>) {
+print("enter yiur name")
+var name=readLine()
+print("your name is $name")
+
+
+}
