@@ -1,0 +1,17 @@
+fun main(args: Array<String>) {
+    
+
+
+/*var num1=20
+var num2=10
+var mun3=num1*num2
+print(mun3)*/
+
+//******************************
+/*var num1=50
+var num2=50
+print("multi is ${num1*num2}")*/
+
+//******************************
+
+}
