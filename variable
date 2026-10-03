@@ -1,0 +1,66 @@
+fun main(args:Array<String>){
+  /*  var name="ahmed"
+    print(name)*/
+
+
+ //*******************************
+ /*var name="ahmed"
+ name="shaaban"
+ println(name)*/
+
+
+ //*****************************
+ /*var name:String
+ name="ahmed"
+ print(name)*/
+
+
+ //******************************
+ /*var name:String
+ name="ahmed"
+ var num:Int 
+ num=15
+ println(name +" "+ num)*/
+
+ //********************************
+ /*var name:String="ahmed"
+ var age:Int=20
+ print("my age is " + name + " my age "+age)*/
+
+
+ //********************************************
+/*var name:String="ahmed"
+ var age:Int=20
+ println("my name is $name my age $age")*/
+
+
+//************************************
+/*var num:Double=20.60
+println(num)*/
+
+
+//************************************
+/*var num:Double?=null
+println(num)*/
+//output=null
+
+
+//**************************************
+/*var mybool1:Boolean=true
+var mybool2:Boolean=false
+var mybool3:Boolean?=null
+println(mybool3)*/
+
+//*************************************
+/*var myfloat:Float=1.5f
+println(myfloat)*/
+
+//**************************************
+/*var char1:Char='a'
+var char2:Char='h'
+println("$char1 $char2")*/
+
+//*********************************
+
+
+}
