@@ -1,0 +1,10 @@
+fun main(args: Array<String>) {
+//var&val
+//val=const
+
+var name:String="ahmed"
+val url:String="www.google.com"
+print(name + url)
+
+
+}
