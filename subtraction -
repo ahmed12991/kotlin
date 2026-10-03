@@ -10,7 +10,7 @@ print(mun3)*/
 //******************************
 /*var num1=50
 var num2=50
-print("adding is ${num1-num2}")*/
+print("sub is ${num1-num2}")*/
 
 //******************************
 
