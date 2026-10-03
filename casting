@@ -1,0 +1,24 @@
+fun main(args: Array<String>) {
+    
+//casting
+
+/*val a: Int = 10
+
+val b: Long = a.toLong()
+val c: Double = a.toDouble()
+val d: Float = a.toFloat()
+val e: Short = a.toShort()
+val f: Byte = a.toByte()*/
+
+
+//**************************
+/*val x = 10
+val y = x.toString()*/
+
+
+//*************************
+/*val ageText = "20"      // String
+val age = ageText.toInt()  // Int
+val text = age.toString()  // String*/
+
+}
