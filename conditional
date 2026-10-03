@@ -1,0 +1,19 @@
+fun main(args: Array<String>) {
+    
+//conditional
+
+/*
+<
+>
+==
+<=
+!=
+>=
+*/
+var num1=5
+var num2=10
+println(num1>num2)//false
+
+println(num1!=num2)//true
+
+}
