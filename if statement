@@ -31,7 +31,17 @@ else
 {
 println("true")
 }
+//*************************************************
+//طريقه تانيه للكتابه
 
+/*
+var num1=4
+var num2=8
+
+if(num1==num2) println("4==8") else if(num1>num2) println("4>8")
+else print("4<8")
+
+*/
 
 
 
