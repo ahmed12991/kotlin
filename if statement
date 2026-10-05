@@ -1,0 +1,38 @@
+fun main(args: Array<String>) {
+    
+//if statement
+/*
+if()
+{
+------------
+}
+else if()
+{
+----------
+}
+else
+{
+------------
+}
+*/
+
+var num1=5
+var num2=6
+
+if(num1>num2)
+{
+println("false")
+}
+else if(num1==num2)
+{
+println("false")
+}
+else
+{
+println("true")
+}
+
+
+
+
+}
