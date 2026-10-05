@@ -1,0 +1,29 @@
+fun main(args: Array<String>) {
+//when
+
+/*
+when(القيمه){
+
+الكود <- الحاله
+
+x -> println("************")
+c-> println("************")
+a -> println("************")
+y -> println("************")
+
+else ->  println("************")
+
+}
+*/
+
+var day = 5
+when(day)
+{
+    4 -> println("الثلاثاء")
+    7 -> println("الجمعه")
+    else -> println("الاربعاء")
+}
+
+//output= الاربعاء
+
+}
