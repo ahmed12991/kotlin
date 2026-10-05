@@ -1,0 +1,24 @@
+fun main(args:Array<String>){
+
+//for loop
+
+/*
+for(i in 1..5)
+{
+println("ahmed")
+}
+*/
+
+//*********************************
+
+/*
+for (i in 0..10)
+{
+    if(i<7)
+    {
+        println("ahmed shaaban")
+    }
+}
+*/
+
+}
