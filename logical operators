@@ -1,0 +1,33 @@
+fun main(args: Array<String>) {
+    
+//logical operators
+/*
+or ||  لازم علي الاقل واحده صح
+and && لازم الاتنين كونوا صح
+not ! بتعكس 
+*/
+var num1=5
+var num2=4
+var x:Boolean=true
+
+if((num1==num2)||(num1>num2))
+//  false       || true  = true
+{
+    println("yes")
+}
+
+else if((num1>num2)&&(!x))
+//      yes &&   before= true , after=false !!! 
+{
+    println("no")
+}
+else if((num1>num2)&&(num1<num2))
+{
+    println("yes")
+}
+
+else{
+    println("***********")
+}
+
+}
