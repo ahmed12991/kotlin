@@ -1,0 +1,12 @@
+fun main(args:Array<String>){
+
+multi(5,4)
+multi(4,2)
+
+}
+
+
+fun multi(num1:Int,num2:Int){
+    var result = num1*num2
+    println(result)
+}
