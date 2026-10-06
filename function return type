@@ -1,0 +1,21 @@
+fun main(args:Array<String>)
+{
+
+var res=add(5,5)
+println(res)
+
+
+}
+fun add(num1:Int,num2:Int):Int{
+    var result:Int=num1+num2
+    return result
+}
+
+/*
+الاختلاف مابين اللي مش بترجع قيمه واللي بترجع 
+حاجتين 
+1
+بحط ريتيرن
+2
+بطبع وبستدعي في المين
+*/
