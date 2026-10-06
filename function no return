@@ -1,0 +1,11 @@
+fun main(args:Array<String>)
+{
+
+//داله لاتستقبل شيء
+
+myname()
+}
+fun myname()
+{
+    println("ahmed shaaban")
+}
