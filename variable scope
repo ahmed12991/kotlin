@@ -1,0 +1,18 @@
+var name3:String="mostafa"//global
+
+fun main(args: Array<String>) {
+
+    var name1:String="ahmed"//local 
+    println(name1)
+    name2()
+    println(name3)
+    
+
+}
+fun name2()
+{
+    var name2:String="shaaban"//local
+    println(name2)
+
+
+}
